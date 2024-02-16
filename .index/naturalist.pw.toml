@@ -1,0 +1,13 @@
+filename = 'naturalist-fabric-1.1.1-1.18.2.jar'
+name = 'Naturalist'
+side = 'both'
+
+[download]
+hash = 'cbd5baf84eb26f17952ba5e0fde72c35430166a630ad4d0663e89b7ea881ece6325aef409d85bfce0eb5b472d77ad310729452d8d07e52572fbc0276a830008d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/F8BQNPWX/versions/TLrtGUZa/naturalist-fabric-1.1.1-1.18.2.jar'
+
+[update.modrinth]
+mod-id = 'F8BQNPWX'
+version = 'TLrtGUZa'

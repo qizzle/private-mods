@@ -1,0 +1,13 @@
+filename = 'paucal-fabric-1.18.2-0.4.7.jar'
+name = 'PAUCAL'
+side = 'both'
+
+[download]
+hash = '839e6633d18a0c419153b67b909befb51b40c8cf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3831429
+project-id = 597824

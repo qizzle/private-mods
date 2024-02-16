@@ -1,0 +1,13 @@
+filename = 'better_log4j_config-1.2.0-fabric.jar'
+name = 'Better Log4j Config'
+side = 'both'
+
+[download]
+hash = '06fcec914f7602fac80e9279e169dbb9c0cd7d8e3fd31e539b2d2ad071c7e3b75181a5743cab65e59d1ea44f29ee716351b8ae3c591edecb0973de33b29ccd73'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6gLXkYZq/versions/XdsEPYxN/better_log4j_config-1.2.0-fabric.jar'
+
+[update.modrinth]
+mod-id = '6gLXkYZq'
+version = 'XdsEPYxN'

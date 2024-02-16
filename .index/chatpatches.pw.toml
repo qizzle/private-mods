@@ -1,0 +1,13 @@
+filename = 'chatpatches-182.0.2.jar'
+name = 'Chat Patches'
+side = 'client'
+
+[download]
+hash = 'cc96339d721a4c120812e0f4148a38c79afac84f91b74a5f3be91aa13ee980d708c143e41e76dc2282faea540d6df021509da832edd5d62c745b883c275dea2a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MOqt4Z5n/versions/JMrqdKRS/chatpatches-182.0.2.jar'
+
+[update.modrinth]
+mod-id = 'MOqt4Z5n'
+version = 'JMrqdKRS'

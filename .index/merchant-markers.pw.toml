@@ -1,0 +1,13 @@
+filename = 'MerchantMarkers-1.18.2-fabric-1.2.2.jar'
+name = 'Merchant Markers'
+side = 'client'
+
+[download]
+hash = '0985206bab3d7ec65bfa8e5678698e5e941ab6cd2d6f9485b86b80a26d914609c1ac46cc9ebfcf6f5c2381b9420cc119cedcce91330c3e5f5bca83d3a8f7c7ae'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AGhiJWsU/versions/QcOT3YMj/MerchantMarkers-1.18.2-fabric-1.2.2.jar'
+
+[update.modrinth]
+mod-id = 'AGhiJWsU'
+version = 'QcOT3YMj'

@@ -1,0 +1,13 @@
+filename = 'DisplayCase-fabric-1.18.2-1.0.3.jar'
+name = 'Display Case'
+side = 'both'
+
+[download]
+hash = '94a80401190e95852676597371b250a2cf2be2b78dd6d38ef06c3b6c62eeb01dd54cec02d32085a2f2b4b3a131e1f8807ca01dfc818b493db11a819c286362a2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cSIsh4gX/versions/GGxyQUAR/DisplayCase-fabric-1.18.2-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'cSIsh4gX'
+version = 'GGxyQUAR'

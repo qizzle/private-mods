@@ -1,0 +1,13 @@
+filename = 'smallships-fabric-1.18.2-2.0.0-b1.0.jar'
+name = 'Small Ships'
+side = 'both'
+
+[download]
+hash = '65feeb0e279a003cccda57f6e02892051759e52bfcc225c99aaf2990b7b1057f19f31911134ab3fc03de75c430f7ea998e4fae61d85245303f38406d9986081c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rGWEHQrP/versions/1io804V6/smallships-fabric-1.18.2-2.0.0-b1.0.jar'
+
+[update.modrinth]
+mod-id = 'rGWEHQrP'
+version = '1io804V6'

@@ -1,0 +1,13 @@
+filename = 'architectury-4.11.93-fabric.jar'
+name = 'Architectury API'
+side = 'both'
+
+[download]
+hash = '41f8dea79e8a0f0e8a49c3baea0750a06a09d1d76285dfbd9b5b0dd7c8b02d615bf431bd822bc9fd6d6fafab7207c469e6961d35c65643eb0460df381c679f87'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lhGA9TYQ/versions/j5zDzQqi/architectury-4.11.93-fabric.jar'
+
+[update.modrinth]
+mod-id = 'lhGA9TYQ'
+version = 'j5zDzQqi'

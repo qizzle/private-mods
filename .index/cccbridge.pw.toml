@@ -1,0 +1,13 @@
+filename = 'cccbridge-mc1.18.2-fabric-v1.5.1.jar'
+name = 'CC:C Bridge'
+side = 'both'
+
+[download]
+hash = 'aebfd80dc2d07d8795a7527d9de012ec896a2b2a6f7a119c8d0ae79fd931c50bc5e2a4160b639df99e5bca6f9cb148abf1f3bfd114df69a88099312f9c6e7909'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fXt291FO/versions/wCHQIZkL/cccbridge-mc1.18.2-fabric-v1.5.1.jar'
+
+[update.modrinth]
+mod-id = 'fXt291FO'
+version = 'wCHQIZkL'

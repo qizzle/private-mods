@@ -1,0 +1,13 @@
+filename = 'mcw-bridges-2.1.0-mc1.18.2fabric.jar'
+name = "Macaw's Bridges"
+side = 'both'
+
+[download]
+hash = '68bae2bdd83f662cff33583a5dbd82e5e97ed756a04e3471b7051ff8c94ee66ac7541cd08b1a93e0f8c27aa514a86dea158acf4a98ccda49a9c316bdc436c012'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GURcjz8O/versions/zLtgy2rG/mcw-bridges-2.1.0-mc1.18.2fabric.jar'
+
+[update.modrinth]
+mod-id = 'GURcjz8O'
+version = 'zLtgy2rG'

@@ -1,0 +1,13 @@
+filename = 'emi-0.7.3+1.18.2.jar'
+name = 'EMI'
+side = 'client'
+
+[download]
+hash = '74e1805e68303222480b563d9cde6db8925937d72d9848bf381c74273701db30adf9b21d9e39895a4fcf8e9ef315ba694e149372f2c205627f1e1362bb824159'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fRiHVvU7/versions/DDkCVTmY/emi-0.7.3%2B1.18.2.jar'
+
+[update.modrinth]
+mod-id = 'fRiHVvU7'
+version = 'DDkCVTmY'

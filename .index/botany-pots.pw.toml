@@ -1,0 +1,13 @@
+filename = 'BotanyPots-Fabric-1.18.2-8.1.28.jar'
+name = 'Botany Pots'
+side = 'both'
+
+[download]
+hash = 'ae714b1002772c49dbb4bcce6373d374247ec494e74733e084dbe7937fd561c1fb963a07826b386997a72296c2d77c1021ef9f3e22aec97e473c16ec8632e139'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/U6BUTZ7K/versions/g2gkLgbM/BotanyPots-Fabric-1.18.2-8.1.28.jar'
+
+[update.modrinth]
+mod-id = 'U6BUTZ7K'
+version = 'g2gkLgbM'

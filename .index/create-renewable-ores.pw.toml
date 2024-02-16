@@ -1,0 +1,13 @@
+filename = 'create-renewable-ores-1.jar'
+name = 'Create Renewable Ores'
+side = 'server'
+
+[download]
+hash = '4447e0da9e75d4b8a87cfefe675466defe3be26e2bac69c45d11371efd89392a59eafe5e5d6656f8a8002b3e20f313dcfe3c6c0e8bddd67166bfd75394e50d28'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dYMXOl0s/versions/yyGfx9wl/create-renewable-ores-1.jar'
+
+[update.modrinth]
+mod-id = 'dYMXOl0s'
+version = 'yyGfx9wl'

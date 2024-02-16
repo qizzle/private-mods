@@ -1,0 +1,13 @@
+filename = 'emotecraft-for-MC1.18.2-2.2.7-b.build.50-fabric.jar'
+name = 'Emotecraft'
+side = 'both'
+
+[download]
+hash = '9eab2e3bdf3ad372ec61ca3d279464fed5093d5e9803c8c8e6d69ad138bccca0c1a21be92ad0dba76132eee51eb6e07e46d98568c16de355a0ecaf261e339a62'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pZ2wrerK/versions/TOLa2tJO/emotecraft-for-MC1.18.2-2.2.7-b.build.50-fabric.jar'
+
+[update.modrinth]
+mod-id = 'pZ2wrerK'
+version = 'TOLa2tJO'

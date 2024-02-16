@@ -1,0 +1,13 @@
+filename = 'fabric-furnaces-2.1.1-1.18.2.jar'
+name = 'Fabric Furnaces'
+side = 'both'
+
+[download]
+hash = '6ee3d05a0d9a4cb0d58286325ac9920c090269ea'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3712495
+project-id = 315534

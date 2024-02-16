@@ -1,0 +1,13 @@
+filename = 'emicompat-1.0.3.jar'
+name = 'EMICompat'
+side = 'client'
+
+[download]
+hash = '384c45fca4f53748d21138b9a8aa1fa213a25f98d471eb86ce4e9f399c4ed700d2be3775e3501f475b7684c34babdeae557322602dde5a087e5bcff15770ccce'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cK0i8gTV/versions/BTT0EYth/emicompat-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'cK0i8gTV'
+version = 'BTT0EYth'

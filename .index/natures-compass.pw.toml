@@ -1,0 +1,13 @@
+filename = 'NaturesCompass-1.18.2-2.0.3-fabric.jar'
+name = "Nature's Compass"
+side = 'both'
+
+[download]
+hash = '02345d8656aa56d2ed4de10725349d489a7db2854d4603fcf2af725f0cede1615155cd550f291da8ac0874578c54638f997fa0ac18bd0a3b3ce0b2a201ea8125'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fPetb5Kh/versions/fUU599ai/NaturesCompass-1.18.2-2.0.3-fabric.jar'
+
+[update.modrinth]
+mod-id = 'fPetb5Kh'
+version = 'fUU599ai'

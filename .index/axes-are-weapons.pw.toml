@@ -1,0 +1,13 @@
+filename = 'AxesAreWeapons-1.7.3-fabric-1.17.1.jar'
+name = 'Axes Are Weapons'
+side = 'server'
+
+[download]
+hash = 'd4d8b8f6e385f510f44dc0e1e5a5621c824ebd1b68f8525c6f3d64bbfa96a6625623430bd6fbbe306d9ec1a571b96590b4ee2e11caec904bc51f00834fb93d42'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1jvt7RTc/versions/B64droef/AxesAreWeapons-1.7.3-fabric-1.17.1.jar'
+
+[update.modrinth]
+mod-id = '1jvt7RTc'
+version = 'B64droef'

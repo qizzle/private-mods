@@ -1,0 +1,13 @@
+filename = 'fusion-1.1.0c-fabric-mc1.18.jar'
+name = 'Fusion (Connected Textures)'
+side = 'client'
+
+[download]
+hash = '9f8f14db8f6836f98ed0072834d5eed5d5209af1019e8d15a3ffad0b053c3ff0afd8695e05f1e28a268bba466a2a9627cb240ad9ee8e16ed3a201ae967e83cab'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/p19vrgc2/versions/CkjIjaNb/fusion-1.1.0c-fabric-mc1.18.jar'
+
+[update.modrinth]
+mod-id = 'p19vrgc2'
+version = 'CkjIjaNb'

@@ -1,0 +1,13 @@
+filename = "Oh_The_Biomes_You'll_Go-fabric-1.18.2-1.5.1.jar"
+name = "Oh The Biomes You'll Go"
+side = 'both'
+
+[download]
+hash = '9fe355fd835d043e95cd0df3bdf151e094a5f1d4d6841fa34492372740abdacd6b1a446d4d7317881c54272dccf22c93077cfdd64b679750f57e87e98bcb9929'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uE1WpIAk/versions/aVO2u7YE/Oh_The_Biomes_You%27ll_Go-fabric-1.18.2-1.5.1.jar'
+
+[update.modrinth]
+mod-id = 'uE1WpIAk'
+version = 'aVO2u7YE'

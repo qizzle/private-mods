@@ -1,0 +1,13 @@
+filename = 'dynamic-fps-3.3.3+minecraft-1.16.5.jar'
+name = 'Dynamic FPS'
+side = 'client'
+
+[download]
+hash = 'c369ea3ab3cb08affca2be4bcff77039d4c40224ec48d156b53befde7108c12937b66f7fbe7d82be849c1c3198c07de3f60fa1009b14c70a7e32c9e34cbcff36'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LQ3K71Q1/versions/lffwyl3t/dynamic-fps-3.3.3%2Bminecraft-1.16.5.jar'
+
+[update.modrinth]
+mod-id = 'LQ3K71Q1'
+version = 'lffwyl3t'

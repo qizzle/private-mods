@@ -1,0 +1,13 @@
+filename = 'BotanyTrees-Fabric-1.18.2-4.0.6.jar'
+name = 'Botany Trees'
+side = 'both'
+
+[download]
+hash = '632dee5f04c2251353b1cf2fda57d6d6e739b6df0ea405a7fec90c6e2dab62820520629ca526ba27a3d3121b8e787d17bb6ff03e6cc7fd439e6debef4a3438d7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mvs7RoIW/versions/XDSJWR3Y/BotanyTrees-Fabric-1.18.2-4.0.6.jar'
+
+[update.modrinth]
+mod-id = 'mvs7RoIW'
+version = 'XDSJWR3Y'

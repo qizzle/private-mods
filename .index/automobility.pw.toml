@@ -1,0 +1,13 @@
+filename = 'automobility-0.3+1.18.2.jar'
+name = 'Automobility'
+side = 'both'
+
+[download]
+hash = '0be4d36ecad5eb1f3efd4247e7e7a6904ec0c73d65a4e4ae5244501e6d5dad13a4140b362720619f9d53c06ee6bbc842241d0e25540576dd6d9fa2b0eac171c5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rqIsPf9F/versions/MlJfRaGI/automobility-0.3%2B1.18.2.jar'
+
+[update.modrinth]
+mod-id = 'rqIsPf9F'
+version = 'MlJfRaGI'

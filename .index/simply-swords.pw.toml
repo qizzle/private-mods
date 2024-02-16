@@ -1,0 +1,13 @@
+filename = 'simplyswords-fabric-1.40-1.18.2.jar'
+name = 'Simply Swords'
+side = 'both'
+
+[download]
+hash = '9b68a01863c990776cc988438b59e36e7c769990a5580b89747db68154759bf5cfb2658be72c8ce685e2cfc9abf1223b4c0f89f274cccbc6b05b7e7aef2acce8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bK3Ubu9p/versions/jxcDwi6L/simplyswords-fabric-1.40-1.18.2.jar'
+
+[update.modrinth]
+mod-id = 'bK3Ubu9p'
+version = 'jxcDwi6L'

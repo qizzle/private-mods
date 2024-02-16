@@ -1,0 +1,13 @@
+filename = 'trinketshulkerboxes-fabric-2.0.2-1.18.2.jar'
+name = 'Shulker Box Slot'
+side = 'both'
+
+[download]
+hash = '767ae6a3789e5cb8948b0ebe83e4a3c32d22185c760c46efc027cbc09a03fa0dc56f122b5b4b2e80ff32aaeb35008732c39e6999e5381989d9a9839a98bfbc6b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/R5T1RmWr/versions/ra6Peq5y/trinketshulkerboxes-fabric-2.0.2-1.18.2.jar'
+
+[update.modrinth]
+mod-id = 'R5T1RmWr'
+version = 'ra6Peq5y'

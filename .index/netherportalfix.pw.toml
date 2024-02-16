@@ -1,0 +1,13 @@
+filename = 'netherportalfix-fabric-1.18.2-9.0.1.jar'
+name = 'NetherPortalFix'
+side = 'server'
+
+[download]
+hash = '4d43f4ffbad38c82101bc165bf249f188f4579da76ddca2b1998bd76ee66105651b39b9dce165dca541cc60f966ede1d3ad68e248b950f067a69bbde080898ab'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nPZr02ET/versions/Aa31SP8V/netherportalfix-fabric-1.18.2-9.0.1.jar'
+
+[update.modrinth]
+mod-id = 'nPZr02ET'
+version = 'Aa31SP8V'
